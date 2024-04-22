@@ -1,0 +1,24 @@
+.slider {
+    margin: 50px auto;
+    width: 50%;
+}
+
+.img-box img {
+    width: 600px;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    background: grey;
+    padding: 10px 30px;
+    font-size: 15px;
+    color: black;
+    cursor: pointer;
+    margin: 40px auto;
+}
+
+.btn:hover {
+    background: darkgray;
+}
+
